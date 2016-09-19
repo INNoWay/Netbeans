@@ -1,0 +1,12 @@
+WARN    2015-10-20 15:53:56,954 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo WARN! 
+INFO    2015-10-20 15:53:56,956 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo INFO! 
+DEBUG   2015-10-20 15:53:56,956 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo DEBUG! 
+FATAL   2015-10-20 15:53:56,957 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem to tipo FATAL! 
+WARN    2015-10-20 15:56:31,188 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo WARN! 
+INFO    2015-10-20 15:56:31,189 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo INFO! 
+DEBUG   2015-10-20 15:56:31,190 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo DEBUG! 
+FATAL   2015-10-20 15:56:31,192 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem to tipo FATAL! 
+WARN    2015-10-23 10:48:41,509 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo WARN! 
+INFO    2015-10-23 10:48:41,518 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo INFO! 
+DEBUG   2015-10-23 10:48:41,519 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo DEBUG! 
+FATAL   2015-10-23 10:48:41,519 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem to tipo FATAL! 

@@ -1,0 +1,12 @@
+DEBUG   2016-03-15 03:54:02,555 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2016-03-15 03:54:02,557 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2016-03-15 03:54:02,560 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO
+DEBUG   2016-07-25 00:31:18,864 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2016-07-25 00:31:18,877 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2016-07-25 00:31:18,881 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO

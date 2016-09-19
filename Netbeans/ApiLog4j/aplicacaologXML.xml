@@ -1,0 +1,42 @@
+DEBUG   2015-10-20 15:58:40,484 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2015-10-20 15:58:40,486 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2015-10-20 15:58:40,489 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO
+DEBUG   2015-10-20 16:00:41,295 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2015-10-20 16:00:41,303 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2015-10-20 16:00:41,342 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO
+INFO    2015-10-20 16:00:44,971 [main] log4j.log4JXML.Log4JXML  - Esta é uma mensagem do tipo INFO
+DEBUG   2015-10-20 16:00:44,972 [main] log4j.log4JXML.Log4JXML  - Esta é uma mensagem do tipo DEBUG! 
+WARN    2015-10-20 16:00:44,972 [main] log4j.log4JXML.Log4JXML  - Esta é uma mensagem do tipo WARN
+FATAL   2015-10-20 16:00:44,972 [main] log4j.log4JXML.Log4JXML  - Esta é uma mensagem to tipo FATAL! 
+DEBUG   2015-10-23 10:48:37,528 [main] log4j.arquivopropriedades.Log4JArquivoPropriedades  - Esta é uma mensagem do tipo DEBUG! 
+INFO    2015-10-23 10:48:37,543 [main] log4j.arquivopropriedades.Log4JArquivoPropriedades  - Esta é uma mensagem do tipo INFO
+WARN    2015-10-23 10:48:37,544 [main] log4j.arquivopropriedades.Log4JArquivoPropriedades  - Esta é uma mensagem do tipo WARN
+FATAL   2015-10-23 10:48:37,545 [main] log4j.arquivopropriedades.Log4JArquivoPropriedades  - Esta é uma mensagem to tipo FATAL! 
+WARN    2015-10-23 10:48:41,509 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo WARN! 
+INFO    2015-10-23 10:48:41,518 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo INFO! 
+DEBUG   2015-10-23 10:48:41,519 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem do tipo DEBUG! 
+FATAL   2015-10-23 10:48:41,519 [main] log4j.Log4JConfigProgramatica.Log4JConfigProgJava  - Esta é uma mensagem to tipo FATAL! 
+DEBUG   2015-11-21 15:08:55,173 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2015-11-21 15:08:55,175 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2015-11-21 15:08:55,189 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO
+DEBUG   2015-11-21 15:28:09,053 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2015-11-21 15:28:09,056 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2015-11-21 15:28:09,058 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO
+DEBUG   2016-03-15 03:54:58,747 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo DEBUG! 
+ERROR   2016-03-15 03:54:58,752 [main] log4j.basico.Log4JTesteBasico  - Isto é uma exceção
+java.lang.Exception: Minha Exceção
+	at log4j.basico.Log4JTesteBasico.meuMetodo(Log4JTesteBasico.java:29)
+	at log4j.basico.Log4JTesteBasico.main(Log4JTesteBasico.java:23)
+INFO    2016-03-15 03:54:58,755 [main] log4j.basico.Log4JTesteBasico  - Esta é uma mensagem do tipo INFO
